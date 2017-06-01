@@ -1,7 +1,7 @@
 <img src="assets/intro_python.png" style="width: 100%; height:100%">
 
+---?video=https://www.youtube.com/v/0NkjVAnWnOA
 ---?video=https://www.youtube.com/v/0NkjVAnWnOA?vq=hd720&rel=0&controls=0&showinfo=0
-
 ---
 
 **Tenemos un problema de comunicación los ordenadores.**
