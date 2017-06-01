@@ -44,7 +44,9 @@ Para un ordenador,
 
 ---
 
-**Paso 2**: saber dónde encontrar ayuda
+**Paso 2**: encontrar ayuda
+
+*python + [qué quieres / falla (explicado en inglés)]*
 
 - Google
     [https://www.google.com](https://www.google.com)
