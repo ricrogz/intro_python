@@ -1,5 +1,5 @@
 
----?https://res.cloudinary.com/ricrogz/image/fetch/https://www.invik.xyz/images/2016/Intro_Python.jpg
+---?image=https://res.cloudinary.com/ricrogz/image/fetch/https://www.invik.xyz/images/2016/Intro_Python.jpg
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-# El Problema: no hablamos el mismo lenguaje que los ordenadores.
+**El Problema: no hablamos el mismo lenguaje que los ordenadores.**
 
 Para nosotros,
 **1 == '1'**
@@ -15,18 +15,18 @@ Para nosotros,
 Para un ordenador,
 **1 != '1'**
 
-# Hace falta un lenguaje intermedio para comunicarnos --> programar
+**Hace falta un lenguaje intermedio para comunicarnos --> programar** **
 
 ---
 
-## "El español para mis tropas, el francés para las mujeres, y el alemán para mi caballo."
+**"El español para mis tropas, el francés para las mujeres, y el alemán para mi caballo."**
                  -- Carlos I de España [Wikiquote](https://es.wikiquote.org/wiki/Carlos_I_de_Espa%C3%B1a)
 
-# Hay un lenguaje apropiado para cada propósito
+**Hay un lenguaje apropiado para cada propósito**
 
 ---
 
-##Python es:
+**Python** es:
 
 - Fácil de entender.
 - Ràpido de programar.
@@ -35,14 +35,14 @@ Para un ordenador,
 
 ---
 
-# Paso 1: instalar python
+**Paso 1**: instalar python
 
-Anaconda -> paquete Python para Linux, Mac o Windows
+*Anaconda* -> paquetes Python para Linux, Mac o Windows
 
-https://www.continuum.io/downloads
+[https://www.continuum.io/downloads](https://www.continuum.io/downloads)
 
 ---
 
-# Para practicar:
+**Para practicar y aprender sobre la marcha**
 
 https://stepik.org/course/Adaptive-Python-568
