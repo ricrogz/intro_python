@@ -1,6 +1,6 @@
-<img src="assets/intro_python.png" width="100%" height="100%">
+<img src="assets/intro_python.png" style="width: 100%; height:100%">
 
----?video=https://www.youtube.com/embed/0NkjVAnWnOA?vq=hd720&rel=0&controls=0&showinfo=0
+---?video=https://www.youtube.com/v/0NkjVAnWnOA?vq=hd720&rel=0&controls=0&showinfo=0
 
 ---
 
@@ -17,6 +17,7 @@ Para un ordenador,
 ---
 
 **"El español para mis tropas, el francés para las mujeres, y el alemán para mi caballo."**
+
 -- Carlos I de España [Wikiquote](https://es.wikiquote.org/wiki/Carlos_I_de_Espa%C3%B1a)
 
 **Hay un lenguaje apropiado para cada propósito**
@@ -42,9 +43,12 @@ Para un ordenador,
 
 **Paso 2**: saber dónde encontrar ayuda
 
-- Google: [https://www.google.com](https://www.google.com)
-- Documentación de Python: [https://docs.python.org/2/](https://docs.python.org/2/)
-- Stack Overflow: [https://stackoverflow.com/](https://stackoverflow.com/
+- Google
+    [https://www.google.com](https://www.google.com)
+- Documentación de Python
+    [https://docs.python.org/2/](https://docs.python.org/2/)
+- Stack Overflow
+    [https://stackoverflow.com/](https://stackoverflow.com/)
 - El comodín de la llamada 
 
 ---
