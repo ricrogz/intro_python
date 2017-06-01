@@ -3,7 +3,7 @@
 
 ---
 
-![Video](https://www.youtube.com/embed/0NkjVAnWnOA)
+![Video](https://www.youtube.com/embed/0NkjVAnWnOA?&rel=0&controls=0&showinfo=0)
 
 ---
 
