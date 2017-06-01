@@ -3,7 +3,7 @@
 
 ---
 
-![Video](https://www.youtube.com/embed/0NkjVAnWnOA?rel=0&controls=0&showinfo=0&vq=hd720&autoplay=true&end=27)
+![Video](https://www.youtube.com/embed/0NkjVAnWnOA?rel=0&controls=0&showinfo=0&vq=hd720&end=27)
 
 ---
 
@@ -45,8 +45,6 @@ Para un ordenador,
 ---
 
 **Paso 2**: encontrar ayuda
-
-*python + [qué quieres / falla (explicado en inglés)]*
 
 - Google
     [https://www.google.com](https://www.google.com)
