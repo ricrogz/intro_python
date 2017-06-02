@@ -47,6 +47,7 @@ Para un ordenador,
 **Paso 2**: elegir un editor
 
 Recomiendo mucho *PyCharm*
+
     [https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/)
 
 ---
@@ -54,11 +55,17 @@ Recomiendo mucho *PyCharm*
 **Paso 3**: saber cómo encontrar ayuda
 
 - Google
+
     [https://www.google.com](https://www.google.com)
+
 - Documentación de Python
+
     [https://docs.python.org/2/](https://docs.python.org/2/)
+
 - Stack Overflow
+
     [https://stackoverflow.com/](https://stackoverflow.com/)
+    
 - El comodín de la llamada 
 
 ---
