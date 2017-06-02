@@ -7,15 +7,13 @@
 
 ---
 
-**Tenemos un problema de comunicación los ordenadores.**
+**Tenemos un problema de comunicación con los ordenadores.**
 
-Para nosotros,
-**1 == '1'**
+Para nosotros, **1 == '1'**
 
-Para un ordenador,
-**1 != '1'**
+Para un ordenador, **1 != '1'**
 
-**Hace falta un lenguaje intermedio para comunicarnos --> programar**
+**Hace falta un lenguaje *común* para comunicarnos (programar)**
 
 ---
 
@@ -31,7 +29,7 @@ Para un ordenador,
 
 - Fácil de entender.
 - Rápido de programar.
-- Muy potente (sirve para casi todo).
+- Muy potente (puede hacer casi de todo).
 - Muy lento.
 
 ---
