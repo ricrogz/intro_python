@@ -76,6 +76,7 @@ Recomiendo mucho *PyCharm*
 
 ---
 
-**Para practicar y aprender sobre la marcha**
+**Paso 4**: practicar y aprender sobre la marcha
 
-https://stepik.org/course/Adaptive-Python-568
+- https://es.coursera.org/learn/interactive-python-1
+- https://stepik.org/course/Adaptive-Python-568
