@@ -40,7 +40,7 @@ Para un ordenador,
 
 Recomiendo *Anaconda*:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.continuum.io/downloads](https://www.continuum.io/downloads)
+[https://www.continuum.io/downloads](https://www.continuum.io/downloads)
 
 - paquetes Python para Linux, Mac o Windows
 - trae un montón de cosas útiles
@@ -51,7 +51,7 @@ Recomiendo *Anaconda*:
 
 Recomiendo mucho *PyCharm*:
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.jetbrains.com/pycharm/download](https://www.jetbrains.com/pycharm/download)
+[https://www.jetbrains.com/pycharm/download](https://www.jetbrains.com/pycharm/download)
 
 - Soporta Mac, Win y Linux
 - **Gratis**
@@ -62,15 +62,15 @@ Recomiendo mucho *PyCharm*:
 
 - Google
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.google.com](https://www.google.com)
+    &nbsp;&nbsp;&nbsp;&nbsp;[https://www.google.com](https://www.google.com)
 
 - Documentación de Python
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://docs.python.org/2/](https://docs.python.org/2/)
+    &nbsp;&nbsp;&nbsp;&nbsp;[https://docs.python.org/2/](https://docs.python.org/2/)
 
 - Stack Overflow
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://stackoverflow.com/](https://stackoverflow.com/)
+    &nbsp;&nbsp;&nbsp;&nbsp;[https://stackoverflow.com/](https://stackoverflow.com/)
 
 - El comodín de la llamada 
 
