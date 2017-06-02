@@ -3,7 +3,7 @@
 
 ---
 
-![Video](https://www.youtube.com/embed/0NkjVAnWnOA?rel=0&controls=0&showinfo=0&vq=hd720&end=27&enablejsapi=1)
+![Video](https://www.youtube.com/embed/0NkjVAnWnOA?rel=0&controls=0&showinfo=0&vq=hd720&end=27&enablejsapi=1&playerapiid=ytplayer)
 
 ---
 
@@ -44,7 +44,14 @@ Para un ordenador,
 
 ---
 
-**Paso 2**: encontrar ayuda
+**Paso 2**: elegir un editor
+
+Recomiendo mucho *PyCharm*
+    [https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/)
+
+---
+
+**Paso 3**: saber cómo encontrar ayuda
 
 - Google
     [https://www.google.com](https://www.google.com)
