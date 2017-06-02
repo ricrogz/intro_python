@@ -40,7 +40,7 @@ Para un ordenador,
 
 *Anaconda* -> paquetes Python para Linux, Mac o Windows
 
-[https://www.continuum.io/downloads](https://www.continuum.io/downloads)
+        [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
 
 ---
 
@@ -48,7 +48,7 @@ Para un ordenador,
 
 Recomiendo mucho *PyCharm*
 
-    [https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/)
+        [https://www.jetbrains.com/pycharm/download](https://www.jetbrains.com/pycharm/download)
 
 ---
 
@@ -56,16 +56,16 @@ Recomiendo mucho *PyCharm*
 
 - Google
 
-    [https://www.google.com](https://www.google.com)
+        [https://www.google.com](https://www.google.com)
 
 - Documentación de Python
 
-    [https://docs.python.org/2/](https://docs.python.org/2/)
+        [https://docs.python.org/2/](https://docs.python.org/2/)
 
 - Stack Overflow
 
-    [https://stackoverflow.com/](https://stackoverflow.com/)
-    
+        [https://stackoverflow.com/](https://stackoverflow.com/)
+
 - El comodín de la llamada 
 
 ---
