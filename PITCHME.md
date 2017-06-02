@@ -76,6 +76,8 @@ Recomiendo mucho *PyCharm*:
 
 **Paso 4**: al lío
 
++++
+
 ![Image](assets/intro-6.png)
 
 +++
