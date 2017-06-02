@@ -74,7 +74,33 @@ Recomiendo mucho *PyCharm*:
 
 ---
 
-**Paso 4**: practicar y aprender sobre la marcha
+**Paso 4**: al lío
+
+![Image](assets/intro-6.png)
+
++++
+
+![Image](assets/intro-7.png)
+
++++
+
+![Image](assets/intro-8.png)
+
++++
+
+![Image](assets/intro-9.png)
+
++++
+
+![Image](assets/intro-10.png)
+
++++
+
+![Image](assets/intro-11.png)
+
+---
+
+**Paso 5**: practicar y aprender sobre la marcha
 
 [https://es.coursera.org/learn/interactive-python-1](https://es.coursera.org/learn/interactive-python-1)
 [https://stepik.org/course/Adaptive-Python-568](https://stepik.org/course/Adaptive-Python-568)
