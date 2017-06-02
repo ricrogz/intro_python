@@ -38,9 +38,12 @@ Para un ordenador,
 
 **Paso 1**: instalar python
 
-*Anaconda* -> paquetes Python para Linux, Mac o Windows
+Recomiendo *Anaconda*
 
         [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
+
+- paquetes Python para Linux, Mac o Windows
+- trae un montón de cosas útiles
 
 ---
 
@@ -49,6 +52,9 @@ Para un ordenador,
 Recomiendo mucho *PyCharm*
 
         [https://www.jetbrains.com/pycharm/download](https://www.jetbrains.com/pycharm/download)
+
+- Soporta Mac, Win y Linux
+- **Gratis**
 
 ---
 
