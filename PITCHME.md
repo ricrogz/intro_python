@@ -52,7 +52,7 @@ Recomiendo mucho *PyCharm*:
 [https://www.jetbrains.com/pycharm/download](https://www.jetbrains.com/pycharm/download)
 
 - Soporta Mac, Win y Linux
-- **Gratis**
+- Versión **Gratis**
 
 ---
 
